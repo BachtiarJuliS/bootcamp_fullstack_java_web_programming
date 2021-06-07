@@ -1,0 +1,62 @@
+-----------------------------------------------
+Bootcamp Fullstack Pemrograman Web Java
+-----------------------------------------------
+
+Tujuan:
+- Bisa membuat Aplikasi Web
+- Bisa coding Pemrograman Web Fullstack
+
+
+Aturan:
+- Setiap anggota akan melakukan coding sesuai dengan materi yang diberikan
+- Durasi pelatihan = 2 - 3 jam
+
+
+Kursus:
+1. Lapisan Ujung Depan
+	1.1. HTML
+	1.2. CSS
+	1.3. Javascript
+	1.4. Bootstrap
+2. Lapisan Inti
+	2.1. Aplikasi Web Java
+	2.2. Kerangka MVC Musim Semi
+3. Lapisan Backend
+	3.1 MYSQL
+
+-------------------------------------------------- ------------------------------
+
+Pertemuan 1
+--------------------------
+
+- Aturan Pelatihan
+- Persiapan Alat
+	# Unduh & Instal
+	- Java JDK 1.8 atau Lebih Tinggi
+	- Eclipse versi baru
+	- Notepad ++
+	- Aplikasi Git
+	
+	# Buat Akun Git
+	- Buat Akun Git
+		> https://github.com/
+		
+	# Bagikan Akun Git:
+	- Wahid Kamarullah: https://github.com/flury
+	- Yoga Febriatala: https://github.com/yogafebriatala24
+	- Cessy Zulma: https://github.com/cessyzulma
+	
+	
+- Perintah-Perintah Umum Git
+-----------------------------
+1. status git: untuk cek file status yg ditambahkan atau dikirimi
+2. git add nama_file: untuk menyimpan file yg siap untuk di commit
+3. git commit -m "pesan commit": untuk memasukkan file yg sudah di add utk siap di push
+4. git push: untuk memasukkan file yg sudah di commit untuk dikirim ke server atau repositori
+5. git pull: untuk mendownload file yg ada di repository
+6. git clone url_repository: untuk memindahkan server repositori ke drive lokal.
+	
+	
+
+
+EOF.
